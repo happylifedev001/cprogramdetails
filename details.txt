@@ -1,0 +1,14 @@
+
+here is Linux based complete orignal xkl that we were following
+
+Now only time and audio and file menu some entries are pending
+
+above Zip code V20 contains complete menu of Spectrogram, all entries completed and working properly, also few entries of Time menu also working, Next task is to Implement Time entries from 3 to onwards.
+
+and
+you please run orignal xkl in Linux and see
+
+Now our goal is Time menu and Audio menu
+
+Even in time menu few entries already working
+
