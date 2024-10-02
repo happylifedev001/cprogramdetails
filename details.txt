@@ -1,14 +1,27 @@
 
+https://github.com/happylifedev001/cprogramdetails
+
 here is Linux based complete orignal xkl that we were following
+https://drive.google.com/drive/folders/1fUxZUphi-jLd_IjgwhZ1oOfeJVX88INZ?usp=sharing
+
+Basically we are working on xkl to built it with GTK, just for remember
+xkl file i am sharing in google drive.
+
 
 Now only time and audio and file menu some entries are pending
 
-above Zip code V20 contains complete menu of Spectrogram, all entries completed and working properly, also few entries of Time menu also working, Next task is to Implement Time entries from 3 to onwards.
-
-and
+I am providing Zipcode V20 contains complete menu of Spectrogram, all entries completed and working properly, also few entries of Time menu also working, Next task is to Implement Time entries from 3 to onwards.
 you please run orignal xkl in Linux and see
 
-Now our goal is Time menu and Audio menu
-
+Now our goal is Time menu and Audio menu, file menu
 Even in time menu few entries already working
+In that 20 version prev dev was working on Time menu and only last 6 entries are pending
+So at First Step you can please use GTK, and Visual Studio to complete Time menu last 6 entries working and make its version V21
+and after completing V21, Please do share me complete folder of code VS in Zip, that will be our V21
+than we will move to Audio menu that is pending and we need to make its V22 version
+Audio menu total are 5 entries and at this moment all are pending
+File menu only First entry work that take audio as input, other are pending
+So you have to complete time menu entrys work, audio menu entries working, and then file menu as priority.
+
+
 
